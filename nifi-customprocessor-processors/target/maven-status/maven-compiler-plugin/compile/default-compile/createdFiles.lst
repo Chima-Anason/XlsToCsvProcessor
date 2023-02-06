@@ -1,0 +1,4 @@
+org/anagracetech/processors/customprocessor/MyProcessor.class
+org/anagracetech/processors/customprocessor/callbacks/XlsToCsvProcessorCallback$1.class
+org/anagracetech/processors/customprocessor/XlsToCsvProcessor.class
+org/anagracetech/processors/customprocessor/callbacks/XlsToCsvProcessorCallback.class
